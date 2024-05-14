@@ -4,7 +4,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🔭 &nbsp; I'm Full Stack web developer & Cloud enthusiast.
+- 🔭 &nbsp; I'm a Full-stack web developer & Cloud enthusiast.
 - :books: &nbsp; I’m currently learning more about NextJS, Cloud Architecture and Systems Design.
 - 👯 &nbsp; I’m looking forward to collaborate on any Open Source project which I consider interesting or useful.
 
