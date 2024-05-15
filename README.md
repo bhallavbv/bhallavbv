@@ -1,10 +1,11 @@
 
 <h2> 👋 Hi, I'm Vaibhav Bhalla  </h2>
-<a href="https://bhallavbv.vercel.app/" target="_blank"><img alt="Robot logo" src="https://github.com/piraces/piraces/raw/master/robot_dark.png" align="right" height="150" /></a>
+<a href="https://bhallavbv.vercel.app/" target="_blank"><img align="right" alt="Coding" width="200" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"></a>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🔭 &nbsp; I'm a Full-stack web developer & Cloud enthusiast.
+- 💬 Ask me about **MEARN, Java + Spring, DevOps & AWS Cloud**
 - :books: &nbsp; I’m currently learning more about NextJS, Cloud Architecture and Systems Design.
 - 👯 &nbsp; I’m looking forward to collaborate on any Open Source project which I consider interesting or useful.
 
