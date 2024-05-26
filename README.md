@@ -1,6 +1,6 @@
 
 <h2> 👋 Hi, I'm Vaibhav Bhalla  </h2>
-<a href="https://bhallavbv.vercel.app/" target="_blank" rel="noopener noreferrer"><img align="right" alt="Coding" width="200" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"></a>
+<a href="https://bhallavbv.vercel.app/" target="_blank" rel="noopener noreferrer"><img align="right" alt="Coding" width="200" src="https://github.com/bhallavbv/bhallavbv/assets/45514004/19bc6292-b79b-484c-9d08-f79e6693e6d9"></a>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
@@ -35,12 +35,12 @@
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
+  ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=F7941E)
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="left">
-  <a href="https://bhallavbv.vercel.app/" target="_blank" rel="noopener noreferrer"><img alt="Vaibhav Bhalla Portfolio Website" src="https://img.shields.io/badge/Website-https://bhallavbv.vercel.app-blue?style=flat-square&logo=google-chrome"></a>
+<!--   <a href="https://bhallavbv.vercel.app/" target="_blank" rel="noopener noreferrer"><img alt="Vaibhav Bhalla Portfolio Website" src="https://img.shields.io/badge/Website-https://bhallavbv.vercel.app-blue?style=flat-square&logo=google-chrome"></a> -->
   <a href="https://www.linkedin.com/in/vaibhav-bhalla/" target="_blank" rel="noopener noreferrer"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Vaibhav%20Bhalla-blue?style=flat-square&logo=linkedin"></a>
   <a href="mailto:bhallavbv@gmail.com" target="_blank" rel="noopener noreferrer"><img alt="Email" src="https://img.shields.io/badge/Email-bhallavbv@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
