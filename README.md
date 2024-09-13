@@ -36,6 +36,8 @@
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=F7941E)
+  ![Excel VBA](https://img.shields.io/badge/-Excel-333333?style=flat&logo=microsoft-excel&logoColor=217346)
+
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
