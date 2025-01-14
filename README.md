@@ -42,7 +42,8 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="left">
-<!--   <a href="https://bhallavbv.vercel.app/" target="_blank" rel="noopener noreferrer"><img alt="Vaibhav Bhalla Portfolio Website" src="https://img.shields.io/badge/Website-https://bhallavbv.vercel.app-blue?style=flat-square&logo=google-chrome"></a> -->
+<!--   <a href="https://bhallavbv.vercel.app/" target="_blank" rel="noopener noreferrer"><img alt="Vaibhav Bhalla Portfolio Website" src="https://img.shields.io/badge/Website-https://bhallavbv.vercel.app-blue?style=flat-square&logo=google-chrome"></a> 
   <a href="https://www.linkedin.com/in/vaibhav-bhalla/" target="_blank" rel="noopener noreferrer"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Vaibhav%20Bhalla-blue?style=flat-square&logo=linkedin"></a>
+	-->
   <a href="mailto:bhallavbv@gmail.com" target="_blank" rel="noopener noreferrer"><img alt="Email" src="https://img.shields.io/badge/Email-bhallavbv@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
