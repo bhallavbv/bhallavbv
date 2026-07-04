@@ -23,6 +23,7 @@
 - 💻 &nbsp;
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 	![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express)
+	![NestJS](https://img.shields.io/badge/-NestJS-333333?style=flat&logo=nestjs&logoColor=E0234E)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
 	![Spring Boot](https://img.shields.io/badge/-Spring_Boot-333333?style=flat&logo=spring)
 - 🛢 &nbsp;
